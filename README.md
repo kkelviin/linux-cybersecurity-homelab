@@ -41,6 +41,7 @@ Example connection format:
 
 ```bash
 ssh kelvin@SERVER_IP
+```
 
 ## Project Status
 
